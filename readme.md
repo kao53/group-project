@@ -1,6 +1,5 @@
 # Class Roster Project
-Contributed to by: Kerry Owusu
-Contributed to by: Chris O'Brien
+Contributed to by: Chris O'Brien, Kerry Owusu
  
 Wednesday
 
