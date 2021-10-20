@@ -1,5 +1,5 @@
 # Class Roster Project
-Contributed to by: Chris OBrien
+Contributed to by: Chris O'Brien
  
 Wednesday
 
